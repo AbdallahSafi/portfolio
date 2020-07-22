@@ -1651,7 +1651,7 @@ footer {
   }
   
   #nav ul li a.active span:before {
-    color: #e27689;
+    color: #50D8D7;
   }
   
 
@@ -1740,7 +1740,7 @@ footer {
   
   #main > section.one {
     background-color: #81918e;
-    background-image: url("../../images/banner.jpg");
+    background-image: url("https://s3.amazonaws.com/braintrustinteractive/wp-content/uploads/background-blur-gradient.png");
   }
   
   #main > section.two {
